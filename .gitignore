@@ -1,0 +1,11 @@
+
+*.vsidx
+/.vs
+/DungeonDev/.vs
+*.exe
+*.bin
+*.dll
+*.exe
+*.v2
+*.json
+*.exe
